@@ -7,12 +7,12 @@ python main.py
 
 You may have to install python first
 
-# Install python
+## Install python
 https://www.python.org/downloads/
 
 once python is installed...
 
-# Install pygame
+## Install pygame
 pip install pygame
 
 Then simply run with:
