@@ -1,7 +1,7 @@
 # cars
 Micah's first python game - move the car to avoid other vehicles
 
-To run the game simply execute the following command at the command prompt, navigate to feed-the-aliens/main.py
+To run the game simply execute the following command at the command prompt (navigate to cars/main.py)
 
 python main.py
 
